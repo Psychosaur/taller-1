@@ -1,0 +1,6 @@
+Package: TallerELSOC
+Type: Project
+Version: 0.1.0
+Encoding: UTF-8
+Title: Taller evaluado ELSOC, curso Reproducibilidad (UDP 2026)
+Imports: renv, dplyr, ggplot2, knitr, rmarkdown
